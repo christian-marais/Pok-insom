@@ -1,0 +1,34 @@
+_id: req_31b468dcaa5d43b2b7f2aa636f246d1f
+type: Request
+parentId: fld_d4b840821d604886baf440b7034c0ec6
+modified: 1676122385524
+created: 1674921566154
+url: http://localhost:3000/api/pokemons
+name: POST/ pokemon
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"name": "chenipan",
+    	"hp" : 25,
+    	"cp" : 19,
+    "picture":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png/",
+
+    "types": ["Plante", "Poison"]
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1676049781699.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: false
+settingRebuildPath: true
+settingFollowRedirects: global

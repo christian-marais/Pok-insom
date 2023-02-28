@@ -1,0 +1,31 @@
+_id: req_174c5d3bebe94d68807c156781ba5c71
+type: Request
+parentId: fld_d4b840821d604886baf440b7034c0ec6
+modified: 1676122388155
+created: 1674921110931
+url: http://localhost:3000/api/pokemons
+name: Liste_de_pokemons
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8abf11fd67a645c4b49f55d0d4d3e041
+    name: authorization
+    value: BEARER
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjExNDg3OSwiZXhwIjoxNjc2MjAxMjc5fQ.5G4Qpo9b72nOr-b7WUAN4tys4hWb7EA9dTQ0GJEv3Tk
+    description: ""
+authentication:
+  type: apikey
+  disabled: false
+  key: Authorization
+  value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjAxMzExMCwiZXhwIjoxNjc2MDk5NTEwfQ.EHPWNb4vIwrflgtmuX4arP6ZUJbJfXVizuHo2_5_NIc
+  addTo: header
+metaSortKey: -1676049781599.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

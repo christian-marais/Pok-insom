@@ -1,0 +1,30 @@
+_id: req_741111ae22c14c9c80f7809c45718c8e
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1676629439649
+created: 1676629402952
+url: http://stormy-shore-75649.herokuapp.com/api/login
+name: POST/ login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "christian",
+    	"password":"1997"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fc40232974c545beb4672c2bcba760e6
+authentication: {}
+metaSortKey: -1676049781649.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: false
+settingRebuildPath: true
+settingFollowRedirects: global

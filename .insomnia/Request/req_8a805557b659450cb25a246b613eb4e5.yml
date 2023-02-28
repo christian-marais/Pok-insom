@@ -1,0 +1,21 @@
+_id: req_8a805557b659450cb25a246b613eb4e5
+type: Request
+parentId: fld_d4b840821d604886baf440b7034c0ec6
+modified: 1676122389507
+created: 1675942672390
+url: http://localhost:3000/api/pokemons?name=bul&limit=5
+name: Recherche de pokemons par nom
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676049781549.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

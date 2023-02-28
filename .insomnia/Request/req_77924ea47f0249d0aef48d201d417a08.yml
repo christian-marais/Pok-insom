@@ -1,0 +1,21 @@
+_id: req_77924ea47f0249d0aef48d201d417a08
+type: Request
+parentId: fld_d4b840821d604886baf440b7034c0ec6
+modified: 1676122390771
+created: 1675752929683
+url: http://localhost:3000/api/pokemons/11
+name: recherche sur un pokemon
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1676049781574.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

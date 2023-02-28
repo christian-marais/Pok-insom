@@ -1,0 +1,26 @@
+_id: req_7c266b73632948f297eb9e5b713f0168
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1676629611513
+created: 1676629402933
+url: http://stormy-shore-75649.herokuapp.com/api/pokemons/13
+name: Delete /supprimer pokemon
+description: ""
+method: DELETE
+body: {}
+parameters: []
+headers:
+  - id: pair_0626a12266724d229b128393fe0ca9e5
+    name: authorization
+    value: bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+    description: ""
+authentication: {}
+metaSortKey: -1676049781749.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

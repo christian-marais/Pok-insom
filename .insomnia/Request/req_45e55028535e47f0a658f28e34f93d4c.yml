@@ -1,0 +1,31 @@
+_id: req_45e55028535e47f0a658f28e34f93d4c
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1677125203145
+created: 1676629402904
+url: "http://stormy-shore-75649.herokuapp.com/api/pokemons "
+name: Liste_de_pokemons
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_8abf11fd67a645c4b49f55d0d4d3e041
+    name: authorization
+    value: BEARER
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+    description: ""
+authentication:
+  type: apikey
+  disabled: false
+  key: Authorization
+  value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+  addTo: header
+metaSortKey: -1676049781599.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

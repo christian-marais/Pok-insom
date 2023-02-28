@@ -1,0 +1,30 @@
+_id: req_199d335e987746dd9e3d6b92d2e70c93
+type: Request
+parentId: fld_d4b840821d604886baf440b7034c0ec6
+modified: 1676122386861
+created: 1675957971954
+url: http://localhost:3000/api/login
+name: POST/ login
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: |-
+    {
+    	"username": "christian",
+    	"password":"1997"
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_fc40232974c545beb4672c2bcba760e6
+authentication: {}
+metaSortKey: -1676049781649.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: false
+settingRebuildPath: true
+settingFollowRedirects: global

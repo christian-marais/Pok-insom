@@ -1,0 +1,40 @@
+_id: req_e966895ac49c42dca6adca83ac28d0a8
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1676629845082
+created: 1676629402914
+url: http://stormy-shore-75649.herokuapp.com/api/pokemons
+name: POST/ pokemon
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: >-
+    {
+    	"name": "heroku",
+    	"hp" : 25,
+    	"cp" : 19,
+    "picture":"https://assets.pokemon.com/assets/cms2/img/pokedex/detail/010.png/",
+
+    "types": ["Plante", "Poison"]
+
+    }
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_a27c50be876e40c4a0fc63853857fcac
+  - id: pair_9e16bcfaddd449b890f2f097230e0204
+    name: authorization
+    value: bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+    description: ""
+authentication: {}
+metaSortKey: -1676049781699.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: false
+settingRebuildPath: true
+settingFollowRedirects: global

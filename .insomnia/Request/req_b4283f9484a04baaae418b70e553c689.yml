@@ -1,0 +1,41 @@
+_id: req_b4283f9484a04baaae418b70e553c689
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1676629618873
+created: 1676629402925
+url: http://stormy-shore-75649.herokuapp.com/api/pokemons/1
+name: PUT /modifier pokemon
+description: ""
+method: PUT
+body:
+  mimeType: application/json
+  text: >
+    {
+    			"name": "Chenipan",
+    			"hp": 25,
+    			"cp": 5,
+    			"picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/001.png",
+    			"types": [
+    				"Plante",
+    				"Poison"
+    			]
+    		}
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+    id: pair_6caf0b54a45f49de89907133982d23ec
+  - id: pair_c308d487001f41d88a4285054299cabb
+    name: authorization
+    value: bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+    description: ""
+authentication: {}
+metaSortKey: -1676049781799.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

@@ -1,0 +1,26 @@
+_id: req_2636e6a320504495a36ad69aa8077e5b
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1676629564342
+created: 1676629402946
+url: http://stormy-shore-75649.herokuapp.com/api/pokemons?name=bul&limit=5
+name: Recherche de pokemons par nom
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_78103b874db8450aa2d9b84c2d15d8df
+    name: authorization
+    value: bearer
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+    description: ""
+authentication: {}
+metaSortKey: -1676049781549.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

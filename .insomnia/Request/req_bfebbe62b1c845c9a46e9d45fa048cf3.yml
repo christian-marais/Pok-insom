@@ -1,0 +1,26 @@
+_id: req_bfebbe62b1c845c9a46e9d45fa048cf3
+type: Request
+parentId: fld_1fb88f14a5f84e12be1aa21e66d83070
+modified: 1676629542717
+created: 1676629402939
+url: http://stormy-shore-75649.herokuapp.com/api/pokemons/11
+name: recherche sur un pokemon
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_3ace7c5165974d96b47f6694ad447cc8
+    name: authorization
+    value: BEARER
+      eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsImlhdCI6MTY3NjYyOTQ3OSwiZXhwIjoxNjc2NzE1ODc5fQ.YCkJL1qRWnLP8J1INF6k_Gr1pdBbgsGv36Jfwf4THD4
+    description: ""
+authentication: {}
+metaSortKey: -1676049781574.8125
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
